@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div className='App'>
+    <div className='App mt-5'>
       <header className='App-header'>
         <p>
           Edit <code className='bg-red'>src/App.tsx</code> and save to reload.
